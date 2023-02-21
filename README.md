@@ -10,9 +10,11 @@ The subsequent qualitative examples presented here serve to demonstrate the effe
 
 When subjected to unobserved instances of falling, our fall detection model demonstrated the capability to precisely identify the fall occurrence. 
 
+
 ![result2](https://github.com/sarj7/fall_detection/blob/cd1623acd8dc371ec44c4696ec34342d0e4f7bc0/gifs/2.gif)
 
 An additional illustration in which our fall detection model aptly recognized a falling event.
+
 
 ![result3](https://github.com/sarj7/fall_detection/blob/cd1623acd8dc371ec44c4696ec34342d0e4f7bc0/gifs/s.gif)
 
