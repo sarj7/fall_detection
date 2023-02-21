@@ -1,0 +1,9 @@
+# path to the dataset
+path: /content/drive/MyDrive/saroj/aza-exp/dsn-fruit/images  
+train: /content/drive/MyDrive/saroj/aza-exp/dsn-fruit/images/train  
+val: /content/drive/MyDrive/saroj/aza-exp/dsn-fruit/images/test
+test: /content/drive/MyDrive/saroj/aza-exp/dsn-fruit/images/test 
+
+# Classes
+nc: 3  # number of classes
+names: ['standing', 'falling', 'fallen']  # class names
